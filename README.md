@@ -25,10 +25,18 @@ We used some of the well known and commonly used techniques in this project to t
 
 ---
 
-## Disclaimer
+## Acknowledgement
 
+This is a Student Project committed as a part of course curriculam.
 
+Done under the Kind Supervision of Dr. Soumitra Samanta.
+
+Prof. of Computer Science Department
+
+Ramakrishna Mission Vivekananda Educational and Research Institute
 ___
+
+## Disclaimer
 
 We share the data and code related to this project.
 
