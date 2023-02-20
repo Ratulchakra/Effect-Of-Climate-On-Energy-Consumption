@@ -10,6 +10,7 @@ Here, we try to look into some common ways to tackle this issue.
 It is solely based on the context of Electricty consumption on the grounds of West Bengal, India.
 
 
+___
 
 We share the data and code related to this project.
 
