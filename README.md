@@ -9,6 +9,20 @@ Wastage of resources hastens the process of humanity's downfall, as they are sca
 Here, we try to look into some common ways to tackle this issue. 
 It is solely based on the context of Electricty consumption on the grounds of West Bengal, India.
 
+The target of this project is to use Climate parameters, such as Temparature and Rainfall, to predict Electricty consumption in the state of West Bengal for a particular day.
+
+The dataset used in this project is Custom-Made. It is made by collecting and compiling data from trust-worthy sources.
+* Climate Data - Indian Meteorological Department (IMD)
+* Energy Consumption - Power System Operation Corporation (POSOCO)
+* Coordinates of the state of West Bengal - Maps of India
+
+We used some of the well known and commonly used techniques in this project to the prediction task.
+* Ordinary Least Square Regression Method
+* LASSO (Least Absolute Shrinkage and Selection Operator) Regression
+* RIDGE Regression
+* Random Forest Regression
+* LSTM (Long Short Term Memory)
+
 
 ___
 
